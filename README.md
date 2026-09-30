@@ -191,7 +191,14 @@ The project can be improved by adding:
 
 **Prachi Kukadiya**
 
+Output screenshots:
+<img width="936" height="341" alt="image" src="https://github.com/user-attachments/assets/e8d2e552-9d91-47cf-899e-4ab9f61f2d1a" />
+<img width="630" height="345" alt="image" src="https://github.com/user-attachments/assets/65f9fba1-0d44-4a72-b097-cb1a50697d18" />
+
+
+
 GitHub: [prachi-kukadiya](https://github.com/prachi-kukadiya)
+
 
 ## 📄 License
 
