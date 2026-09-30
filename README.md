@@ -15,6 +15,8 @@ After collecting the information, the program displays each value along with its
 
 This project is designed to practice basic Python concepts such as **input, variables, data types, type conversion, arithmetic operations, and output**.
 
+live project link:https://onlinegdb.com/msR5_htCb
+
 ## 🎯 Objectives
 
 The main objectives of this project are:
