@@ -15,7 +15,12 @@ After collecting the information, the program displays each value along with its
 
 This project is designed to practice basic Python concepts such as **input, variables, data types, type conversion, arithmetic operations, and output**.
 
-live project link:https://onlinegdb.com/msR5_htCb
+🌐 live project link:
+https://onlinegdb.com/msR5_htCb
+
+🎥 Project Explanation Video:
+https://drive.google.com/drive/folders/1ZZFvQSBt94pn0aPVDpRda1lwEQUw3Pfp?usp=drive_link
+
 
 ## 🎯 Objectives
 
@@ -191,7 +196,7 @@ The project can be improved by adding:
 
 **Prachi Kukadiya**
 
-Output screenshots:
+📸 Output screenshots:
 <img width="936" height="341" alt="image" src="https://github.com/user-attachments/assets/e8d2e552-9d91-47cf-899e-4ab9f61f2d1a" />
 <img width="630" height="345" alt="image" src="https://github.com/user-attachments/assets/65f9fba1-0d44-4a72-b097-cb1a50697d18" />
 
