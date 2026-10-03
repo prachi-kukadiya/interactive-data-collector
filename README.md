@@ -19,7 +19,6 @@ This project is designed to practice basic Python concepts such as **input, vari
 https://onlinegdb.com/msR5_htCb
 
 🎥 Project Explanation Video:
-
 https://drive.google.com/drive/folders/1ZZFvQSBt94pn0aPVDpRda1lwEQUw3Pfp?usp=drive_link
 
 
